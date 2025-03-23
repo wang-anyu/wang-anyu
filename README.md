@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-anyu&title_color=4B0082&text_color=800080&bg_color=FFFFFF)" />
 </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wang-anyu&bg_color=ffffff&color=db00ac&line=b300a7&point=600382&area=true&hide_border=true)"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WangAnyu&bg_color=f6c993&color=ed8131&line=f0963c&point=403d3d&area=true&hide_border=true)"/>
   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,vscode,blender,godot,figma,idea,html,ai,ps,spring,mysql,unity,js&theme=light" />
